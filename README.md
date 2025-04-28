@@ -12,3 +12,12 @@ Code of the paper "FMambaIR: A Hybrid State Space Model and Frequency Domain for
                          |--- GT
                    
    ```
+### Test
+
+   Test the FMambaIR model:
+   
+   ```sh
+   python test.py 
+   ```
+   
+   The pretrained model is saved at ./checkpoints/UIEBD/*.pth.
