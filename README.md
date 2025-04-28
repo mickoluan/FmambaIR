@@ -21,3 +21,5 @@ Code of the paper "FMambaIR: A Hybrid State Space Model and Frequency Domain for
    ```
    
    The pretrained model is saved at ./checkpoints/UIEBD/*.pth.
+
+Google Drive: Download [LSUI]([https://drive.google.com/file/d/11dZqu95QfnAgkzgR1NTJfQutz8JlwRY8/view?usp=sharing])
