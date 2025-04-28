@@ -4,9 +4,11 @@ Code of the paper "FMambaIR: A Hybrid State Space Model and Frequency Domain for
  ```sh
       |--- datasets
              |--- {datasets_name}
-                   |--- trainA
-                   |--- trainB
-                   |--- testA
-                   |--- testB
+                   |--- train
+                         |--- input
+                         |--- GT
+                   |--- test
+                         |--- iuput
+                         |--- GT
                    
    ```
